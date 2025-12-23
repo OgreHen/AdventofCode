@@ -50,9 +50,7 @@ def part_1_and_2(start):
     return abs(n_s) + abs(e_w), abs(location[0]) + abs(location[1])
 
 
-start = loader.one_line_loader("day1.txt", ', ')
+start = loader.one_type_of_data('day1.txt', ', ')
 print(f'Starting data: {start}')
 print(f'Answer for part one is: {part_1_and_2(start)[0]}.\n'
       f'Answer for part two is: {part_1_and_2(start)[1]}')
-
-#274+
