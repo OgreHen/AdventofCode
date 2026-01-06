@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e5f6f7a-685d-455b-aa98-6bfcb229e752" name="Changes" comment="First try">
-      <change afterPath="$PROJECT_DIR$/2016/day10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2016/day10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/day11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/day11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/day12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/day12.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +48,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.day1.executor": "Run",
     "Python.day10.executor": "Run",
+    "Python.day11.executor": "Run",
+    "Python.day12.executor": "Run",
     "Python.day2.executor": "Run",
     "Python.day3.executor": "Run",
     "Python.day4.executor": "Run",
@@ -60,7 +64,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.day10">
+  <component name="RunManager" selected="Python.day12">
     <configuration name="day10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AdventofCode" />
       <option name="ENV_FILES" value="" />
@@ -84,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AdventofCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +102,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016/day6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016/day11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AdventofCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +125,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016/day7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016/day12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day12" />
+        <item itemvalue="Python.day11" />
         <item itemvalue="Python.day10" />
         <item itemvalue="Python.day9" />
         <item itemvalue="Python.day8" />
-        <item itemvalue="Python.day7" />
-        <item itemvalue="Python.day6" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767118607096</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="First try">
+      <option name="closed" value="true" />
+      <created>1767281171877</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767281171877</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
