@@ -1,10 +1,4 @@
-def two_type_of_data(filename, split_character1 = '\n', splitter_character2 = ' '):
-    version = open(filename, 'r').read()
-    first = version.split(split_character1)
-    second = []
-    for item in first:
-        second.append(item.split(splitter_character2))
-    return second
+import loader
 
 def part_1(start):
     result = 0
@@ -25,8 +19,7 @@ def part_2(start):
         if good: result += 1
     return result
 
-input_data = two_type_of_data('day4.txt')
+input_data = loader.two_type_of_data('day4.txt')
 # print(input_data)
 print(f'The answer for part 1 is: {part_1(input_data)}')
 print(f'The answer for part 2 is: {part_2(input_data)}')
-
