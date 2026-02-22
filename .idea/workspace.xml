@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e5f6f7a-685d-455b-aa98-6bfcb229e752" name="Changes" comment="First try">
-      <change afterPath="$PROJECT_DIR$/2017/day6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2017/day6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017/day7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017/day7.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,71 +41,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.day1.executor": "Run",
-    "Python.day10.executor": "Run",
-    "Python.day11.executor": "Run",
-    "Python.day12.executor": "Run",
-    "Python.day13.executor": "Run",
-    "Python.day14.executor": "Run",
-    "Python.day15.executor": "Run",
-    "Python.day16.executor": "Run",
-    "Python.day17.executor": "Run",
-    "Python.day18.executor": "Run",
-    "Python.day19.executor": "Run",
-    "Python.day2.executor": "Run",
-    "Python.day20.executor": "Run",
-    "Python.day21.executor": "Run",
-    "Python.day22.executor": "Run",
-    "Python.day23.executor": "Run",
-    "Python.day24.executor": "Run",
-    "Python.day25.executor": "Run",
-    "Python.day3.executor": "Run",
-    "Python.day4.executor": "Run",
-    "Python.day5.executor": "Run",
-    "Python.day6.executor": "Run",
-    "Python.day7.executor": "Run",
-    "Python.day8.executor": "Run",
-    "Python.day9.executor": "Run",
-    "Python.loader.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Neher András/PycharmProjects/AdventofCode/2017"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loader.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Neher András/PycharmProjects/AdventofCode/2017&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Neher András\PycharmProjects\AdventofCode\2017" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.day6">
-    <configuration name="day2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AdventofCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2017" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2017/day2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.day7">
     <configuration name="day3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AdventofCode" />
       <option name="ENV_FILES" value="" />
@@ -198,13 +175,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AdventofCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2017" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2017/day7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day7" />
         <item itemvalue="Python.day6" />
         <item itemvalue="Python.day5" />
         <item itemvalue="Python.day4" />
         <item itemvalue="Python.day3" />
-        <item itemvalue="Python.day2" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771519769606</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="First try">
+      <option name="closed" value="true" />
+      <created>1771520705457</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1771520705457</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
