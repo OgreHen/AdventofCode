@@ -7,9 +7,9 @@ def part_1_and_2(start):
     alltime_max = 0
     for i in start:
         if i[1] == 'inc':
-            instruction = f'{i[3]} regs["{i[4]}"] {i[5]} {i[6]}:\n\tregs["{i[0]}"] = regs["{i[0]}"] + {i[2]}'
+            instruction = f'{i[3]} regs["{i[4]}"] {i[5]} {i[6]}:\n\tregs["{i[0]}"] += {i[2]}'
         elif i[1] == 'dec':
-            instruction = f'{i[3]} regs["{i[4]}"] {i[5]} {i[6]}:\n\tregs["{i[0]}"] = regs["{i[0]}"] - {i[2]}'
+            instruction = f'{i[3]} regs["{i[4]}"] {i[5]} {i[6]}:\n\tregs["{i[0]}"] -= {i[2]}'
         exec(instruction)
         if max(regs.values()) > alltime_max:
             alltime_max = max(regs.values())
